@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.3
+pytz==2019.3
+psutil==5.8.0
+pydantic[dotenv]==1.9.1
+numpy==1.16.6
